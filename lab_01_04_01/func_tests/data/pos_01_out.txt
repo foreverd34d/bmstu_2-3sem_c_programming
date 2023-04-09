@@ -1,0 +1,2 @@
+Input apartment number: Entrance = 1
+Floor = 9

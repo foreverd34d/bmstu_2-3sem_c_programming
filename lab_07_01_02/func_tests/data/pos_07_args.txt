@@ -1,0 +1,1 @@
+func_tests/data/pos_07_in.txt func_tests/data/pos_07_got.txt f

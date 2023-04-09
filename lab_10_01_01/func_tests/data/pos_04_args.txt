@@ -1,0 +1,1 @@
+func_tests/data/pos_04_in_1.txt func_tests/data/pos_04_in_2.txt func_tests/data/pos_04_got.txt

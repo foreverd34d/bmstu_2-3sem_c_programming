@@ -1,0 +1,1 @@
+func_tests/data/neg_02_in.txt func_tests/data/neg_02_got.txt func_tests/data/neg_00_in.txt f

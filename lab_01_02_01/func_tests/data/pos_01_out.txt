@@ -1,0 +1,1 @@
+Input a, b and angle: Area = 9.093266

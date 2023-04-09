@@ -1,0 +1,1 @@
+func_tests/data/pos_08_in.txt ALL
