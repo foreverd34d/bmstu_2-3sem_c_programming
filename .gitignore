@@ -1,0 +1,14 @@
+*.exe
+*.out
+*.o
+
+*.pch
+*.gch
+**/.DS_Store
+
+*.gcda
+*.gcno
+*.gcov
+
+.cache/
+compile_commands.json
